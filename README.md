@@ -1,29 +1,37 @@
-# rock-paper-scissor
 
-This template should help get you started developing with Vue 3 in Vite.
+# Rock-Paper-Scissor Game
 
-## Recommended IDE Setup
+A simple rock-paper-scissor game web app using VueJS.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Run Locally
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Clone the project
 
-## Project Setup
-
-```sh
-npm install
+```bash
+  git clone https://github.com/vpandey6398/rock-paper-scissor.git
 ```
 
-### Compile and Hot-Reload for Development
+Go to the project directory
 
-```sh
-npm run dev
+```bash
+  cd my-project
 ```
 
-### Compile and Minify for Production
+Install dependencies
 
-```sh
-npm run build
+```bash
+  npm install
 ```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+# Game Snapshots
+
+
+
